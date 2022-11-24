@@ -2,6 +2,10 @@
 
 # Felasa Initiative
 
+![fel](https://user-images.githubusercontent.com/59250204/203810814-eaa59ddd-d0ca-4fbe-bcdb-71da4452ba61.gif)
+
+
+
 <img src="./images/fel.gif" align="right" height=290/> 
 
 ## 🚺 About Us:
