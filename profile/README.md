@@ -2,7 +2,7 @@
 
 # Felasa Initiative
 
-<img src="./images/Felasa.png" align="right" height=290/> 
+<img src="./images/fel.gif" align="right" height=290/> 
 
 ## 🚺 About Us:
 
